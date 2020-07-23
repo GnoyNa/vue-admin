@@ -1,0 +1,13 @@
+ContentServiceImpl.getContentsByCid()
+UmsMemberController.info()
+
+MBG自动生成数据库连接类以及mapper
+QBC查询 防止sql注入
+判断了非法字符串防止非法操作
+filter防止越权操作
+密码使用hash值加密
+使用session记录用户登陆状态
+
+/api/user/login?auth_type=member&username=test&password=123456
+PicUtil.getPicUrl(String s) {return url;}
+
